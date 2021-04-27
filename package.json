@@ -1,0 +1,30 @@
+{
+  "name": "day2-revission",
+  "version": "0.0.2",
+  "description": "Events",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harpreet93/javascript-day2.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "java",
+    "bootstrap"
+  ],
+  "author": "harpreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harpreet93/Revision-Lesson-1/issues"
+  },
+  "homepage": "https://github.com/Harpreet93/Revision-Lesson-1#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {}
+}
